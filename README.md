@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg"
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh43263458&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh43263458" /> </p>
 
